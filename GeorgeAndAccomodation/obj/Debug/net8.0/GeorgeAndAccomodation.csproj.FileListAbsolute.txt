@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\bin\Debug\net8.0\GeorgeAndAccomodation.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\bin\Debug\net8.0\GeorgeAndAccomodation.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\bin\Debug\net8.0\GeorgeAndAccomodation.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\bin\Debug\net8.0\GeorgeAndAccomodation.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\bin\Debug\net8.0\GeorgeAndAccomodation.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\obj\Debug\net8.0\GeorgeAndAccomodation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\obj\Debug\net8.0\GeorgeAndAccomodation.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\obj\Debug\net8.0\GeorgeAndAccomodation.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\obj\Debug\net8.0\GeorgeAndAccomodation.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\obj\Debug\net8.0\GeorgeAndAccomodation.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\obj\Debug\net8.0\refint\GeorgeAndAccomodation.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\obj\Debug\net8.0\GeorgeAndAccomodation.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\obj\Debug\net8.0\GeorgeAndAccomodation.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\GeorgeAndAccomodation\GeorgeAndAccomodation\obj\Debug\net8.0\ref\GeorgeAndAccomodation.dll
